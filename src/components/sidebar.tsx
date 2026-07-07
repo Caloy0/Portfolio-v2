@@ -24,7 +24,7 @@ export default function Sidebar() {
     <>
       <div
         className={cn(
-          "hidden lg:block fixed inset-0 z-30 bg-background/60 backdrop-blur-sm transition-opacity duration-300",
+          "fixed inset-0 z-30 bg-background/60 backdrop-blur-sm transition-opacity duration-300",
           isSidebarOpen ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none"
         )}
         onClick={closeSidebar}
@@ -33,10 +33,10 @@ export default function Sidebar() {
 
       <aside
         className={cn(
-          "hidden lg:block fixed left-4 top-[4.5rem] w-64 h-[calc(100vh-5.5rem)] z-40 transition-all duration-300 ease-out",
+          "fixed left-3 lg:left-4 top-[4.5rem] w-[min(16rem,calc(100vw-1.5rem))] lg:w-64 h-[calc(100dvh-5.5rem)] z-40 transition-all duration-300 ease-out",
           isSidebarOpen
             ? "translate-x-0 opacity-100 pointer-events-auto"
-            : "-translate-x-[calc(100%+2rem)] opacity-0 pointer-events-none"
+            : "-translate-x-[calc(100%+0.75rem)] lg:-translate-x-[calc(100%+2rem)] opacity-0 pointer-events-none"
         )}
         aria-hidden={!isSidebarOpen}
       >

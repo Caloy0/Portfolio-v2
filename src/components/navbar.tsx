@@ -2,15 +2,13 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X } from "lucide-react";
-import { useState } from "react";
+import { Menu } from "lucide-react";
 import { useSidebar } from "@/contexts/sidebar-context";
 import ThemeToggle from "@/components/theme-toggle";
 
 export default function Navbar() {
   const pathname = usePathname();
   const { toggleSidebar, isSidebarOpen } = useSidebar();
-  const [mobileOpen, setMobileOpen] = useState(false);
 
   const navItems = [
     { href: "/", label: "Home" },
@@ -27,7 +25,7 @@ export default function Navbar() {
         <div className="flex items-center gap-3">
           <button
             onClick={toggleSidebar}
-            className={`hidden lg:flex p-2 rounded-lg transition-colors ${
+            className={`flex p-2 rounded-lg transition-colors ${
               isSidebarOpen
                 ? "bg-primary/10 text-primary"
                 : "text-muted-foreground hover:text-primary hover:bg-accent"
@@ -64,36 +62,8 @@ export default function Navbar() {
 
         <div className="flex items-center gap-2">
           <ThemeToggle />
-          <button
-            onClick={() => setMobileOpen(!mobileOpen)}
-            className="md:hidden p-2 rounded-lg text-muted-foreground hover:text-primary hover:bg-accent transition-colors"
-            aria-label="Toggle menu"
-          >
-            {mobileOpen ? <X size={20} /> : <Menu size={20} />}
-          </button>
         </div>
       </div>
-
-      {mobileOpen && (
-        <div className="md:hidden border-t border-border/50 bg-card/95 backdrop-blur-xl">
-          <div className="px-6 py-4 flex flex-col gap-1">
-            {navItems.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                onClick={() => setMobileOpen(false)}
-                className={`px-3 py-2.5 rounded-lg text-sm transition-colors ${
-                  pathname === item.href
-                    ? "text-primary bg-primary/10 font-medium"
-                    : "text-muted-foreground hover:text-foreground hover:bg-accent"
-                }`}
-              >
-                {item.label}
-              </Link>
-            ))}
-          </div>
-        </div>
-      )}
     </nav>
   );
 }
