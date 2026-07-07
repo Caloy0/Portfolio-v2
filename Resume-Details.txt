@@ -1,0 +1,137 @@
+ADRIAN CARLOS CORNICO
+
+(+63) 995-493-1338 | adrian.cornico07@gmail.com | https://www.linkedin.com/in/adrian-carlos-cornico-428547297/
+
+Marikina City, Metro Manila
+
+Results-driven IT Professional with experience in software engineering, systems administration, IT operations, and application support.
+Proven track record of developing enterprise web and mobile applications, administering business-critical systems, deploying production
+mobile applications, and providing technical support across multiple organizations. Skilled in REST API integration, UI/UX development,
+mobile application deployment, and cross- functional collaboration. Passionate about leveraging technology to improve operational
+efficiency, system reliability, and user experience.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+* Professional Experience *
+
+# NextApp Solutions Corp. - Marikina, Philippines Jan 2024 - Present
+
+Front-end Software Engineer | Technical Support
+
+- Designed and developed responsive, user- centric web and mobile application interfaces for multiple enterprise clients, delivering
+solutions aligned with business requirements and brand guidelines.
+- Led front- end development of the IAM Wallet application for IAMWORLDWIDE Corporation, implementing secure digital wallet
+features including bill payments, mobile load purchases, commission withdrawals, and account management.
+- Developed the IAM Mobile application, enabling members to track commissions, register new members, manage accounts, and
+perform encashment transactions through an intuitive user experience.
+- Contributed to the development of the IAM ECOM mobile application by implementing front-end features, integrating RESTful APIs,
+and collaborating with back-end developers to deliver a seamless e-commerce experience.
+- Redesigned and redeveloped the IAM ECOM website based on the mobile application's design and functionality, ensuring a
+consistent cross-platform user experience while integrating APIs and responsive front-end features.
+- Built scalable front-end architectures for enterprise member portals and dashboard systems for multiple clients, including Nanucell, World Premier, Crown Fortune, and Blooms Wellness, implementing responsive UI, API integrations, reusable components, andbclient-side validation.
+- Collaborated closely with back- end developers, UI/ UX designers, project managers, and stakeholders to deliver high- quality,
+production-ready applications that met client objectives and timelines.
+- Optimized applications for performance, accessibility, cross-browser compatibility, and mobile responsiveness to provide a consistent
+user experience across devices.
+- Provided ongoing application maintenance, feature enhancements, bug fixes, and production support for retainer clients, ensuring
+system reliability, rapid issue resolution, and continuous delivery of client-requested improvements.
+- Served as an on-call technical support resource, troubleshooting production issues, deploying application updates, and maintaining
+stable, high-availability environments for multiple client applications.
+
+=========================================================================================================================
+
+# IAMWORLDWIDE Corporation - San Juan, Philippines Feb 2024 - Present 
+
+IT Specialist | Systems Administrator
+
+- Managed day-to-day IT operations, ensuring the stability, availability, and performance of the organization's systems and technology
+infrastructure.
+- Served as the primary technical liaison between IAMWORLDWIDE Corporation and the external software development team at
+- NextApp Solutions Corp., coordinating system enhancements, issue resolution, and project requirements.
+- Administered and maintained the company's website, performing content updates, feature improvements, and routine maintenance to
+ensure optimal performance.
+- Provided technical support for employees by troubleshooting hardware, software, networking, printers, and workstation issues,
+minimizing operational downtime.
+- Monitored and maintained the organization's digital queuing system, proactively resolving issues to ensure uninterrupted business
+operations.
+- Assisted in maintaining IT infrastructure through hardware and software deployment, upgrades, preventive maintenance, and system
+troubleshooting.
+- Oversaw the development and continuous enhancement of key business applications, including the Member Dashboard, IAM Wallet,
+and IAM ECOM, collaborating with developers to ensure alignment with business objectives and user requirements.
+- Managed the complete mobile application release lifecycle using Google Play Console and Apple App Store Connect, coordinating
+internal testing, closed and open beta releases, production deployments, and post-release updates.
+- Collaborated with cross-functional teams and external vendors to implement new features, resolve production issues, and improve the
+reliability and usability of business-critical systems.
+
+=========================================================================================================================
+
+# Nanusci Inc. - Subic, Zambales, Philippines Feb 2024 - Jun 2025
+
+Freelance Graphics Designer
+
+- Designed promotional graphics for Nanusci Inc.'s health products for use across social media platforms.
+- Created marketing materials such as banners and flyers for company events and public promotions.
+- Developed the official logo for NanuHealthShop, a sister company of Nanusci Inc.
+- Produced initial product packaging and branding concepts for NanuHealthShop’s product line.
+- Designed daily social media graphics for Nanucell, another sister company, from December to May, maintaining consistent brand
+visuals and messaging.
+- Collaborated closely with the marketing team to ensure all materials aligned with brand identity and campaign goals.
+
+=========================================================================================================================
+
+# Ad2Kart - Manila, Philippines Dec 2022 - Feb 2024
+
+IT Staff/System Administrator | Creatives Graphic Designer
+
+- Managed social media content on various platforms eg. Facebook & Instagram.
+- Created graphics and posters for marketing and advertising.
+- Implemented the use of the POS system for the related staff to use.
+- Created accounts and taught the staff on how to utilize the system.
+- Supported and supervised the staff until they were proficient in using the system.
+
+=========================================================================================================================
+
+# PluggedIn - Quezon City, Philippines Jul 2022 - Oct 2022
+
+IT Intern
+
+- Supported the team on the execution of the e-commerce platform and the establishment of the system.
+- Assisted the Human Resources manager in creating a more developed, organized, and structured work organization.
+- Implementation of the system and the e-commerce platform in the company.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+* Education *
+
+# Polytechnic University of the Philippines - 379 Pureza, Sta. Mesa, Manila, 1008 Oct 2020 - Jul 2023
+Diploma in Computer Engineering Technology, 1.25/1.00
+President’s Lister (4 Semesters) | A.Y. 2020–2023
+PUP-ITech Technology Research Symposium 2023 | 2nd Finalist
+
+# San Juan National High School- Senior High School - Dr. A. Ejercito Cor. Jose Gil
+St., San Juan City
+Jun 2018 - Mar 2020
+Senior High School, Science, Technology, Engineering, and Mathematics
+
+# San Juan National High School – Junior High - Dr. P. A. Narciso St., Brgy. Corazon
+de Jesus, San Juan City
+Jun 2014 - Mar 2018
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+* Technical Skills & Certifications * 
+
+- Professional Strengths : Front- end Software Engineering, Enterprise Application Development, REST API Integration, System
+Administration, Mobile & Web Application Deployment, Production Support, Technical Documentation, Cross- functional Collaboration,
+Requirements Analysis, Problem Solving
+- Programming Languages: C#, Python, JavaScript, PHP, SQL
+- Frameworks & Libraries: ASP.NET Core, Blazor, .NET MAUI Blazor Hybrid, React.js, Next.js, Flutter, Tailwind CSS, HeroUI/NextUI
+- Web Technologies: HTML5, CSS3, REST API Integration, JSON, Responsive Web Design, UI/UX Design, Cross-browser Compatibility,
+Client-side Form Validation, Mobile-first Design, Component-based UI Development
+- Development Tools: Visual Studio, Visual Studio Code, Cursor, Git / GitHub, npm, Github Desktop, Postman, Figma, Android Studio
+- Mobile Development: .NET MAUI Blazor Hybrid, Google Play Console, Apple App Store Connect, Mobile Application Deployment, Beta
+Testing & Production Releases
+- IT & Systems Administration : Windows System Administration, Computer Hardware Troubleshooting, Software Installation &
+Configuration, Printer & Peripheral Support, Website Administration, IT Operations, Technical Support, Application Maintenance
+- Certifications : Computer System Servicing NC II, LinkedIn Learning – HTML Essential Training, LinkedIn Learning – CSS Essential
+Training, LinkedIn Learning – Photoshop Essential Training, LinkedIn Learning – Learning Java
